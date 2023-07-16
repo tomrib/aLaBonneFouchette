@@ -1,5 +1,3 @@
 RewriteEngine On
 
-ErrorDocument 404
-
 RewriteRule ^register$ ./controllers/registerController.php
